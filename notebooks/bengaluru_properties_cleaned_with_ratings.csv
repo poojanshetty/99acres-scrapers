@@ -1,0 +1,399 @@
+name,ratings,location,price_lakhs,price_crores,area_sqft,bhk
+sobha royal pavilion,4.2,sarjapur road,240.0,2.4,1507,3
+sobha royal pavilion,4.2,"carmelaram, sarjapur road",288.0,2.88,1800,3
+sobha windsor,4.3,whitefield,210.0,2.1,1550,3
+"vajarahalli, bangalore, bangalore south",,vajarahalli,445.0,4.45,1500,4
+sobha royal pavilion,4.2,sarjapur road,380.0,3.8,2232,4
+unicca emporis,,varthur,220.00000000000003,2.2,2184,3
+prestige park square,3.9,"basavanapura, bannerghatta road",229.99999999999997,2.3,1771,3
+shriram smrithi,,sarjapura attibele road,83.0,0.83,1525,3
+sobha windsor,4.3,whitefield,350.0,3.5,2200,4
+sobha windsor,4.3,whitefield,370.0,3.7,2200,4
+jain heights east parade,3.8,"c v raman nagar, kaggadasapura",350.0,3.5,3504,4
+galaxy sri nandana galaxy,,sarjapur road,102.0,1.02,1405,3
+galaxy sri nandana galaxy,,sarjapur road,108.0,1.08,1485,3
+mahaveer maple,,brookefield,122.0,1.22,1168,2
+shriram summit,,electronics city phase 1,127.0,1.27,1175,2
+vajram essenza,,"chokkanahalli, near thanisandra",112.00000000000001,1.12,1271,2
+sri nandana galaxy,,"chambenahalli, sarjapur road",93.0,0.93,1350,3
+sri nandana galaxy,,"chambenahalli, sarjapur road",107.0,1.07,1485,3
+prestige city avalon park,,sarjapur road,240.0,2.4,1657,3
+concorde auriga,,kr puram,215.0,2.15,1744,3
+galaxy sri nandana galaxy,,sarjapur road,75.0,0.75,1005,2
+concorde auriga,,kr puram,229.99999999999997,2.3,1758,3
+bhartiya the leela residences,3.7,"chokkanahalli, near thanisandra",360.0,3.6,1800,2
+shriram smrithi,,sarjapura attibele road,66.0,0.66,1196,2
+sattva east crest,3.6,"bandapura, old madras road",119.0,1.19,1171,2
+ramky one north,4.3,avalahalli,77.0,0.77,1101,3
+ramky one north,4.3,avalahalli,67.0,0.67,880,2
+shriram luxor,3.5,"kannur, thanisandra main road",120.0,1.2,1195,2
+sobha habitech,3.7,"ambedkar nagar, whitefield",254.99999999999997,2.55,1852,3
+shriram chirping grove,,sarjapur,240.0,2.4,1900,4
+"isro layout, bangalore, bangalore south",,isro layout,188.0,1.88,2200,3
+trifecta joli,,sarjapur road,110.00000000000001,1.1,1450,3
+heritage,,electronic city,54.0,0.54,1053,2
+shriram chirping grove,,sarjapur,250.0,2.5,1900,4
+concorde auriga,,kr puram,130.0,1.3,1135,2
+raggi gudda temple,,2nd phase jp nagar,330.0,3.3,2200,3
+sattva east crest,3.6,"bandapura, old madras road",125.0,1.25,1182,2
+prestige finsbury park,4.1,bagalur,130.0,1.3,1277,3
+ahad serenity,,sarjapur road,119.0,1.19,1229,3
+president leon,,yelahanka,92.0,0.92,1365,3
+emerald,,electronic city,55.0,0.55,1134,2
+royal sri sai nandanaroyal,,"koppa, bommasandra",53.5,0.535,1185,2
+amigo estella,,"rk hegde nagar, thanisandra main road",143.0,1.43,1778,3
+brigade parkside north,3.7,"jalahalli, bel road",114.99999999999999,1.15,1125,2
+purva westend,,"garebhavipalya, hosur road",229.99999999999997,2.3,1508,3
+sattva misty charm,4.0,kanakapura road,95.0,0.95,960,2
+prestige park square,3.9,"basavanapura, bannerghatta road",278.0,2.78,1771,4
+"jp nagar, bangalore, bangalore south",,jp nagar,345.0,3.45,1200,5
+shriram luxor,3.5,"kannur, thanisandra main road",114.99999999999999,1.15,1195,2
+sri nandana galaxy,,"chambenahalli, sarjapur road",72.0,0.72,1040,2
+prestige finsbury park,4.1,bagalur,132.0,1.32,1277,3
+prestige primrose hills,,"uttarahalli manavarthekaval, kanakapura road",110.00000000000001,1.1,720,2
+sattva divinity,4.1,mysore road,300.0,3.0,1864,3
+bren zahara,3.8,sarjapur road,254.99999999999997,2.55,1784,3
+shriram summit,,electronics city phase 1,135.0,1.35,1305,2
+rj enclave apartment,,junnasandra,55.0,0.55,1005,2
+emmay environs pride,,whitefield,77.0,0.77,1075,2
+elegant davis,,pulikeshi nagar,250.0,2.5,2200,3
+sobha dream gardens,3.7,thanisandra,120.0,1.2,1052,2
+bhartiya city nikoo homes 1,,thanisandra,126.0,1.26,1113,2
+sekhar olympus,,horamavu,145.0,1.45,1459,3
+sobha royal pavilion,4.2,sarjapur road,320.0,3.2,1804,3
+sree adithya lotus park,,"kodigehalli, kr puram",86.71,0.8671,1196,2
+green view,,electronic city,49.0,0.49,918,2
+sobha silicon oasis,4.0,"beratena agrahara, near hosa road",164.0,1.64,1370,2
+"vajarahalli, bangalore, bangalore south",,vajarahalli,490.00000000000006,4.9,1500,4
+vaishnavi splendour,,ashwathnagar,490.00000000000006,4.9,2204,3
+saroj harmony,,varthur,161.0,1.61,1725,3
+marvel sequoia,,"vsr layout, mahadevapura",125.0,1.25,1295,2
+sobha dream acres,4.2,"balagere, near panathur",125.0,1.25,1012,2
+bhartiya city nikoo homes 1,,thanisandra,120.0,1.2,1098,2
+prestige finsbury park,4.1,bagalur,172.0,1.72,1562,3
+prestige finsbury park,4.1,bagalur,138.0,1.38,1224,3
+prestige finsbury park,4.1,bagalur,132.0,1.32,1224,3
+aishwarya amaze,,"seenappa layout, bommanahalli",65.0,0.65,950,2
+sai shama,,banashankari,265.0,2.65,2399,3
+shriram sameeksha,4.0,kuvempu nagar,105.0,1.05,1550,3
+prestige shantiniketan,4.5,whitefield,407.0,4.07,2292,3
+ab daffodils,,"phase 1 kammasandra, electronic city",58.0,0.58,1255,3
+elegance,,electronic city,49.81,0.49810000000000004,945,2
+sri sai nandana royal,3.9,electronics city phase 1,55.0,0.55,1185,2
+on request,,richmond town,450.0,4.5,2200,3
+shriram sameeksha,4.0,kuvempu nagar,100.0,1.0,1300,3
+srs sunrise,,"parappana agrahara, hosa road",106.0,1.06,1456,3
+pariwar passion,,"doddakammanahalli, bannerghatta road",99.0,0.99,1485,3
+brigade omega,3.9,banashankari stage 6,145.0,1.45,1710,3
+rj enclave apartment,,junnasandra,54.0,0.54,988,2
+vajram essenza,,"chokkanahalli, near thanisandra",109.00000000000001,1.09,1258,2
+sai shama,,"giri nagar, banashankari",265.0,2.65,2401,3
+prestige finsbury park,4.1,bagalur,132.0,1.32,1185,2
+shriram smrithi,,sarjapura attibele road,76.0,0.76,1395,2
+temple vaivhava apartment,,"nyanappana halli, hulimavu",86.0,0.86,1250,3
+hiranandani glen gate,3.7,hebbal,155.0,1.55,1240,2
+shriram sameeksha,4.0,kuvempu nagar,56.0,0.56,800,1
+bhartiya city nikoo homes phase 2,4.4,"chokkanahalli, near thanisandra",284.0,2.84,2204,4
+s v nivas,,"duo layout, bommanahalli",75.0,0.75,1210,2
+mukunda nandanam,,kr puram,109.00000000000001,1.09,1560,3
+sapthagiri sandalwoods,,kadugodi,91.43,0.9143000000000001,1219,2
+sapthagiri sandalwoods,,kadugodi,87.0,0.87,1160,2
+mukunda nandanam,,kr puram,102.0,1.02,1500,3
+sri nandana galaxy,,"sompura, sarjapur road",95.0,0.95,1245,2
+galaxy sri nandana galaxy,,"yamare, sarjapur road",98.0,0.98,1350,3
+sri nandana galaxy,,"chambenahalli, sarjapur road",101.0,1.01,1395,3
+sri nandana galaxy,,sarjapur road,86.55,0.8654999999999999,1245,2
+sri nandana galaxy,,sarjapur road,105.0,1.05,1485,3
+galaxy sri nandana galaxy,,"chambenahalli, sarjapur road",105.0,1.05,1485,3
+galaxy sri nandana galaxy,,"yamare, sarjapur road",84.5,0.845,1160,2
+sri nandana galaxy,,sarjapur road,99.0,0.99,1395,3
+rj enclave apartment,,junnasandra,55.0,0.55,1005,2
+rj enclave apartment,,junnasandra,55.0,0.55,1005,2
+rj enclave apartment,,junnasandra,55.0,0.55,1008,2
+aarna royal apartment,,"ananth nagar, electronic city",60.0,0.6,1400,3
+aarna royal apartment,,"ananth nagar, electronic city",61.0,0.61,1425,3
+aarna royal apartment,,"ananth nagar phase 2, electronic city",60.0,0.6,1400,3
+aarna royal apartment,,"ananth nagar, electronic city",60.0,0.6,1400,3
+aarna royal apartment,,"ananth nagar, electronic city",61.0,0.61,1425,3
+rj vintage apartment,,"phase 1 kammasandra, electronic city",66.0,0.66,1423,3
+rj vintage apartment,,"ananth nagar, electronic city",65.0,0.65,1400,3
+temple vaibhav apartment,,"nyanappana halli, hulimavu",85.0,0.85,1250,3
+ss p,,jp nagar,335.0,3.35,1200,5
+sobha city santorini,,nagareshwara - nagenahalli,220.00000000000003,2.2,1740,3
+confident oxygen,,"chambenahalli, sarjapur road",90.0,0.9,1087,3
+cansa dhiya,3.5,panathur,78.0,0.78,970,2
+green view,,electronic city,66.0,0.66,1350,3
+pride pegasus,,hennur gardens,195.0,1.95,1629,3
+ajmera lakeside paradise,,"kempanahalli, near yelahanka new town",90.0,0.9,1100,2
+ajmera lakeside paradise,,"kempanahalli, near yelahanka new town",60.0,0.6,666,1
+ds max sparkle nest,,"k.narayanapura, thanisandra main road",75.0,0.75,1094,2
+shriram sameeksha,4.0,kuvempu nagar,75.0,0.75,1020,2
+singsandra hsr,,"singasandra, hosur road",65.0,0.65,1050,2
+sree adithya lotus park,,kr puram,83.2,0.8320000000000001,1154,2
+sree adithya lotus park,,kr puram,80.78,0.8078,1141,2
+sapthagiri sandalwoods,,kadugodi,92.25,0.9225,1230,2
+sapthagiri sandalwoods,,kadugodi,94.5,0.945,1260,2
+mukunda nandanam,,kadugodi,105.0,1.05,1500,3
+assetz sun and sanctum,,"battarahalli, near kr puram",225.0,2.25,1658,3
+sobha dream acres,4.2,"balagere, near panathur",160.0,1.6,1205,2
+temple vaibhav apartment,,"nyanappana halli, hulimavu",84.0,0.84,1250,3
+temple vaibhav apartment,,"nyanappana halli, hulimavu",86.0,0.86,1250,3
+hiranandani glen gate,3.7,hebbal,265.0,2.65,1665,3
+shapoorji pallonji parkwest 2,,"binny pete, magadi road",275.0,2.75,1939,3
+serene at brigade cornerstone utopia,,varthur,180.0,1.8,1242,2
+sai sadhan,,electronics city phase 1,67.0,0.67,1269,2
+galaxy sri nandana galaxy,,sarjapur,89.0,0.89,1245,2
+prestige jindal city,4.1,tumkur road,85.0,0.85,607,1
+temple vaibhava apartment,,"nyanappana halli, hulimavu",85.0,0.85,1250,3
+sri sai nandana royal,,electronics city phase 1,74.0,0.74,1680,3
+bhartiya city nikoo homes 1,,thanisandra,185.0,1.85,1948,3
+brigade parkside north,3.7,"jalahalli, bel road",90.0,0.9,1144,2
+concorde auriga,,kr puram,96.0,0.96,833,2
+sree adithya lotus park,,kr puram,111.00000000000001,1.11,1551,3
+skanda,,"singasandra, hosur road",67.5,0.675,1090,2
+mukunda nandanam,,kr puram,110.00000000000001,1.1,1575,3
+mukunda nandanam,,kr puram,85.68,0.8568000000000001,1260,2
+ajmera marina,,"kempanahalli, near yelahanka new town",140.0,1.4,1600,3
+h m dwaraka,,rajarajeshwari nagar,180.0,1.8,2400,3
+"hennur road, bangalore, bangalore north",,hennur road,300.0,3.0,1200,5
+sri nandana galaxy,,sarjapur road,103.0,1.03,1485,3
+galaxy sri nandana galaxy,,sarjapur road,95.0,0.95,1350,3
+hiranandani glen gate,3.7,hebbal,260.0,2.6,1665,3
+sri nandana galaxy,,sarjapur road,98.0,0.98,1395,3
+sri nandana galaxy,,sarjapur road,70.71,0.7071,1010,2
+sri nandana galaxy,,sarjapur road,70.37,0.7037,1005,2
+sumadhura eden garden,3.7,whitefield,92.0,0.92,670,1
+nitesh hyde park,3.8,hulimavu,57.0,0.57,800,1
+sriram sameeksha,,"jalahalli, bel road",85.0,0.85,1020,2
+srs sunrise,,"parappana agrahara, hosa road",102.0,1.02,1398,3
+ab daffodils,,"ananth nagar phase 2, electronic city",46.9,0.469,1015,2
+sri nandana galaxy,,"dommasandra, sarjapur road",80.82,0.8081999999999999,1160,2
+mukunda nandanam project,,kr puram,85.4,0.8540000000000001,1220,2
+sapthagiri sandal woods,,kadugodi,90.3,0.903,1204,2
+mukunda nandanam,,kr puram,85.05,0.8504999999999999,1215,2
+patel smondo 2,,thirupalya,75.0,0.75,1025,2
+sobha hrc pristine,3.7,jakkur,305.0,3.05,1819,3
+galaxy sri nandana galaxy,,"yamare, sarjapur road",72.0,0.72,1005,2
+prestige west woodsmagadi road,,magadi road,190.0,1.9,1268,2
+sobha royal pavilion,4.2,sarjapur road,300.0,3.0,1806,3
+nitesh hyde park,3.8,hulimavu,74.9,0.7490000000000001,1000,2
+nitesh hyde park,3.8,hulimavu,74.55,0.7454999999999999,969,2
+godrej united,3.7,whitefield,375.0,3.75,1933,3
+habulus samruddhi apartment,3.8,"kammasandra, electronic city",43.5,0.435,1089,2
+shriram greenfield,4.0,"bommenahalli, near budigere",108.0,1.08,1225,3
+green view,,neeladri nagar,48.5,0.485,945,2
+brigade parkside north,3.7,"jalahalli, bel road",88.0,0.88,1268,2
+mukunda nandanam,,kr puram,75.25,0.7525,1075,2
+prestige park square,3.9,"basavanapura, bannerghatta road",170.0,1.7,1130,2
+shriram sameeksha,4.0,kuvempu nagar,79.0,0.79,1020,2
+prestige west woodsmagadi road,,magadi road,300.0,3.0,1770,3
+nitesh hyde park,3.8,hulimavu,75.1,0.7509999999999999,969,2
+brigade parkside north,3.7,"jalahalli, bel road",85.0,0.85,1207,2
+nr windgates,,"chokkanahalli, near thanisandra",111.00000000000001,1.11,1549,3
+shapoorji pallonji parkwest 2,,"binny pete, magadi road",165.0,1.65,1455,2
+sapthagiri sandalwoods,,kadugodi,111.00000000000001,1.11,1483,3
+mukunda nandanam,,kr puram,109.00000000000001,1.09,1555,3
+prestige lakeside habitat,4.3,"gunjur, near varthur",231.0,2.31,1697,3
+shriram southern crest,4.0,jp nagar,180.0,1.8,1300,2
+sobha clovelly,,"kadarenahalli, banashankari",320.0,3.2,2350,3
+nitesh hyde park,3.8,hulimavu,54.68,0.5468,699,1
+nitesh hyde park,3.8,hulimavu,75.0,0.75,1100,2
+venu regency,,"lottegolla halli, bellari road",85.0,0.85,1700,3
+venu regency,,"lottegolla halli, bellari road",75.0,0.75,1410,2
+nitesh camp david,,pulikeshi nagar,310.0,3.1,3000,3
+shriram summit,,electronics city phase 1,125.0,1.25,1365,2
+vbhc vaibhava,4.0,"byagadadhenahalli, near chandapura",23.0,0.23,500,1
+sri sakhthi,,"kammasandra, electronic city",52.0,0.52,1270,3
+mukunda nandanm,,kr puram,84.7,0.847,1210,2
+hiranandani glen gate,3.7,hebbal,245.00000000000003,2.45,1810,3
+hiranandani glen gate,3.7,hebbal,270.0,2.7,1665,3
+sattva east crest,3.6,"bandapura, old madras road",155.0,1.55,1425,3
+sobha windsor,4.3,whitefield,250.0,2.5,1817,3
+brigade cornerstone utopia,3.8,varthur,152.0,1.52,1097,2
+vishal nest,,jakkur,85.0,0.85,1348,2
+nitesh hyde park,3.8,hulimavu,75.2,0.752,1021,2
+vaishnavi terraces,4.0,"dollar scheme colony, btm layout",400.0,4.0,2535,3
+gopalan atlantis,3.8,"dodsworth layout, whitefield",136.0,1.36,1245,2
+provident sunworth,4.3,mysore road,48.0,0.48,883,2
+provident sunworth,4.3,mysore road,58.0,0.58,1082,3
+provident sunworth,4.3,mysore road,47.5,0.475,950,2
+provident sunworth,4.3,mysore road,59.0,0.59,1082,3
+provident sunworth,4.3,mysore road,57.5,0.575,1082,3
+provident sunworth,4.3,mysore road,48.5,0.485,883,2
+provident sunworth,4.3,mysore road,57.8,0.578,1100,3
+srk park view,,"aecs layout - a block, hosur road",95.0,0.95,1920,3
+kino at brigade orchards,,devanahalli,86.0,0.86,1027,2
+salarpuria sattva cadenza,4.2,kudlu gate,260.0,2.6,1564,3
+sjr luxuria,,"araka mico layout, bannerghatta road",210.0,2.1,2095,3
+shobha garrison,,nagasandra,150.0,1.5,1700,3
+sattva misty charm,4.0,kanakapura road,130.0,1.3,1254,3
+prime nest apartment,,"akshayanagara west, akshaya nagar",65.0,0.65,1060,2
+prime nest apartment,,"akshayanagara west, akshaya nagar",60.0,0.6,1060,2
+shapoorji pallonji parkwest 2,,"binny pete, magadi road",240.0,2.4,1750,3
+shapoorji pallonji parkwest,4.3,"binny pete, magadi road",78.0,0.78,665,1
+shapoorji pallonji parkwest 2,,"binny pete, magadi road",160.0,1.6,1589,2
+sobha rajvilas,,rajajinagar,350.0,3.5,2000,3
+nitesh camp david,,pulikeshi nagar,315.0,3.15,2900,3
+nitesh hyde park,3.8,hulimavu,54.0,0.54,688,1
+nitesh hyde park,3.8,hulimavu,54.5,0.545,688,1
+serene at brigade cornerstone utopia,,varthur,218.00000000000003,2.18,1645,3
+hiranandani glen gate,3.7,hebbal,155.0,1.55,1245,2
+prestige city avalon park,,sarjapur road,155.0,1.55,1347,2
+prestige city avalon park,,sarjapur road,190.0,1.9,1536,3
+l and t raintree boulevard,4.1,hebbal,310.0,3.1,2041,3
+hiranandani glen classic,,hebbal,83.0,0.83,655,1
+prestige park square,3.9,"basavanapura, bannerghatta road",192.0,1.92,1348,3
+sowparnika columns,3.8,"soukya road, whitefield",114.99999999999999,1.15,1428,3
+galaxy sri nandana galaxy,,"chambenahalli, sarjapur road",72.0,0.72,1005,2
+galaxy sri nandana galaxy,,"chambenahalli, sarjapur road",83.0,0.83,1160,2
+sri nandana galaxy,,sarjapur road,93.62,0.9362,1350,3
+galaxy sri nandana galaxy,,"chambenahalli, sarjapur road",99.0,0.99,1405,3
+provident park square,4.1,kanakapura road,139.0,1.39,1308,3
+on request,,"sindhi colony, pulikeshi nagar",265.0,2.65,2000,3
+juniper at brigade orchards,3.4,devanahalli,106.0,1.06,1230,2
+prestige finsbury park,4.1,bagalur,99.0,0.99,955,2
+habulus enclave 2,3.8,"kammasandra, electronic city",55.0,0.55,1395,3
+sobha windsor,4.3,whitefield,240.0,2.4,1817,3
+sobha windsor,4.3,whitefield,305.0,3.05,2207,4
+sobha windsor,,whitefield,250.0,2.5,1811,3
+awho sandeep vihar,,whitefield,135.0,1.35,1235,2
+trifecta esplanade,,"kumbena agrahara, kr puram",134.0,1.34,1701,3
+trillium apartments,,hosa road,94.0,0.94,1330,3
+sri sai nandana royal,3.9,neeladri nagar,70.98,0.7098,1610,3
+prestige lakeside habitat,4.3,"gunjur, near varthur",163.0,1.63,1195,2
+sobha windsor,4.3,whitefield,210.0,2.1,1575,3
+sri sai nandana royal,3.9,neeladri nagar,54.42,0.5442,1225,2
+awho sandeep vihar,,whitefield,254.99999999999997,2.55,2067,4
+sai serenity,,"ananth nagar phase 2, electronic city",47.56,0.4756,1044,2
+godrej avenues,4.1,yelahanka,135.0,1.35,1390,3
+nandagokula aparyment,,"srinivasa nagar, banashankari",118.0,1.18,1200,3
+nandagokulam residency,,"srinivasa nagar, banashankari",118.0,1.18,1201,3
+"narayana nagar 3rd block, kanakapura road, bangalore south",,"narayana nagar 3rd block, kanakapura road",168.0,1.68,2400,3
+sobha dream gardens,3.7,thanisandra,114.99999999999999,1.15,1004,2
+shriram sahaana,,yelahanka,122.0,1.22,1781,3
+maithri shilpitha sunflower,4.0,"nallurhalli, whitefield",112.00000000000001,1.12,1134,2
+prestige jindal city,4.1,tumkur road,126.0,1.26,1073,2
+sai nilayam,,electronic city,50.0,0.5,1026,2
+concorde auriga,,kr puram,145.0,1.45,1311,3
+"padmanabhanagar, outer ring road south, bangalore south",,"padmanabhanagar, outer ring road south",240.0,2.4,2200,3
+on request,,"c k gardens, cooke town",215.0,2.15,1950,3
+windsor zenith,,"cox town, pulikeshi nagar",250.0,2.5,2000,3
+provident park square,4.1,kanakapura road,105.0,1.05,1180,3
+prestige finsbury park,4.1,bagalur,145.0,1.45,1431,3
+radiance blossom,,mandur,300.0,3.0,2758,5
+prestige primrose hills,,"uttarahalli manavarthekaval, kanakapura road",180.0,1.8,1581,3
+snow drops residency,,"giri nagar, banashankari",165.0,1.65,1750,3
+prestige primrose hills,,"uttarahalli manavarthekaval, kanakapura road",170.0,1.7,1581,3
+prestige jindal city,4.1,tumkur road,213.0,2.13,1702,3
+royal sri nandana royal,,"kiadb industrial area, jigani",54.42,0.5442,1225,2
+provident sunworth,4.3,mysore road,57.6,0.5760000000000001,1200,3
+on request,,frazer town,275.0,2.75,2200,3
+on request,,frazer town,187.0,1.87,1700,3
+eden park at the prestige city,,sarjapur,109.00000000000001,1.09,997,2
+divine green leaf,,yelahanka,119.0,1.19,1580,3
+mahaveer maple,,brookefield,128.0,1.28,1170,2
+jade residency,,kammanahalli,117.0,1.17,1347,3
+on request,,indira nagar,360.0,3.6,1800,3
+prestige finsbury park,4.1,bagalur,126.0,1.26,1277,3
+mahendra aarna,4.0,"kammasandra, electronic city",98.0,0.98,1075,2
+sri sai nandana royal,,neeladri nagar,52.71,0.5271,1185,2
+provident sunworth,4.3,mysore road,48.7,0.48700000000000004,900,2
+on request,,cooke town,200.0,2.0,1910,3
+bhartiya city nikoo homes 1,,thanisandra,97.0,0.97,934,2
+mantri greens,4.4,malleshwaram,330.0,3.3,2050,3
+prestige finsbury park,4.1,bagalur,149.0,1.49,1431,3
+purva park,,"jeevanhalli, pulikeshi nagar",75.0,0.75,1075,2
+prestige waterford,3.9,whitefield,320.0,3.2,1775,3
+prestige primrose hills,,"uttarahalli manavarthekaval, kanakapura road",88.0,0.88,720,2
+ds max splendor nest,3.3,"jalahalli, bel road",35.0,0.35,900,2
+habulus harmony,3.5,"kammasandra, electronic city",31.0,0.31,660,1
+provident sunworth,4.3,mysore road,46.0,0.46,883,2
+alpine fiesta,,hoodi,100.0,1.0,1025,2
+provident sunworth,4.3,mysore road,56.0,0.56,1082,3
+provident sunworth,4.3,mysore road,47.0,0.47,883,2
+bhartiya city nikoo homes phase 2,4.4,"chokkanahalli, near thanisandra",159.0,1.59,1315,3
+prestige primrose hills,,"uttarahalli manavarthekaval, kanakapura road",160.0,1.6,1543,3
+prestige primrose hills,,"uttarahalli manavarthekaval, kanakapura road",98.0,0.98,988,2
+prestige primrose hills,,"uttarahalli manavarthekaval, kanakapura road",60.0,0.6,584,1
+sathish,,"vemanna layout, bel road",99.0,0.99,1500,3
+sathish,,"vemanna layout, bel road",90.0,0.9,1500,3
+venu regency,,"lottegolla halli, bellari road",85.0,0.85,1650,3
+meridian park at the prestige city,3.6,sarjapur road,175.0,1.75,1387,3
+ganesh,,9th block jayanagar,224.00000000000003,2.24,700,4
+vr royal view,,hoskote,135.0,1.35,1500,3
+k raheja residency,4.2,3rd block koramangala,225.0,2.25,1200,2
+provident park square,4.1,kanakapura road,136.0,1.36,1400,3
+prime nest apartment,,"akshayanagara east, akshaya nagar",65.0,0.65,1060,2
+sobha chrysanthemum,,thanisandra,160.0,1.6,1790,3
+nitesh hyde park,3.8,hulimavu,75.0,0.75,969,2
+nitesh hyde park,3.8,hulimavu,74.5,0.745,1021,2
+ds max stone hill,3.8,jp nagar,82.0,0.82,1450,3
+gopalan atlantis,3.8,"dodsworth layout, whitefield",198.0,1.98,1745,3
+on request,,richmond town,220.00000000000003,2.2,1800,3
+dlf westend heights,4.2,akshaya nagar,165.0,1.65,1570,3
+on request,,cooke town,150.0,1.5,1325,3
+century indus,3.9,rajarajeshwari nagar,102.0,1.02,1210,3
+trifecta esplanade,,"kumbena agrahara, kr puram",89.0,0.89,1175,2
+prestige finsbury park,4.1,bagalur,65.0,0.65,735,1
+nandi serenity,,rajarajeshwari nagar,64.0,0.64,1100,2
+sobha arena,4.0,"talaghattapura, kanakapura road",180.0,1.8,1294,2
+jp nagar bangalore south,,3rd phase jp nagar,360.0,3.6,1200,3
+brigade cornerstone utopia,3.8,varthur,155.0,1.55,1097,2
+eden park at the prestige city,,sarjapur,69.0,0.69,442,1
+prestige city avalon park,,sarjapur road,195.0,1.95,1536,3
+snr verity,,sarjapur,49.0,0.49,1045,2
+bhartiya city nikoo homes 1,,thanisandra,187.0,1.87,1917,3
+shriram summit,,electronics city phase 1,163.0,1.63,1595,3
+salarpuria serenity,,sector 7 hsr layout,250.0,2.5,1533,3
+ds max stone hill,3.8,jp nagar,80.0,0.8,1450,3
+provident sunworth,4.3,mysore road,48.9,0.489,920,2
+provident sunworth,4.3,mysore road,59.6,0.596,1200,3
+provident sunworth,4.3,mysore road,57.0,0.57,1082,3
+provident sunworth,4.3,mysore road,56.8,0.568,1082,3
+provident sunworth,4.3,mysore road,47.3,0.473,1000,2
+provident sunworth,4.3,mysore road,58.3,0.583,1082,3
+provident sunworth,4.3,mysore road,56.98,0.5698,1082,3
+provident sunworth,4.3,mysore road,57.65,0.5765,1082,3
+provident sunworth,4.3,mysore road,47.9,0.479,883,2
+provident sunworth,4.3,mysore road,48.2,0.48200000000000004,883,2
+prestige waterford,3.9,whitefield,365.0,3.65,2027,3
+provident sunworth,4.3,mysore road,46.8,0.46799999999999997,883,2
+prestige finsbury park,4.1,bagalur,98.1,0.981,999,2
+prestige waterford,3.9,whitefield,434.99999999999994,4.35,2555,4
+"vidyapeeta, banashankari, bangalore south",,"vidyapeeta, banashankari",195.0,1.95,2200,3
+prestige city avalon park,,sarjapur road,110.00000000000001,1.1,944,2
+siri nakshatra,,"ksrtc layout, chikkalasandra",55.0,0.55,1000,2
+jade residency,,kammanahalli,123.0,1.23,1348,3
+"roshini homes, babusapalaya",,"babusapalaya, hennur gardens",87.0,0.87,1450,3
+roshini homes,,hennur gardens,78.0,0.78,1301,3
+roshini homes,,hennur road,87.0,0.87,1450,3
+roshini homes,,hennur gardens,60.0,0.6,1001,2
+roshini homes,,horamavu banaswadi,78.0,0.78,1300,3
+roshini homes,,hennur road,66.0,0.66,1100,2
+roshini homes,,horamavu banaswadi,60.0,0.6,1000,2
+slv central park,3.5,whitefield,100.0,1.0,1100,2
+sri nandana galaxy,,sarjapur road,70.0,0.7,1040,2
+nandanaroyal,,"maragondanahalli, bommasandra",61.95,0.6195,1400,3
+navami landmaark,3.8,rajarajeshwari nagar,130.0,1.3,1329,2
+parkside at brigade orchards,,devanahalli,75.0,0.75,1170,1
+on request,,"cambridge layout, mg road",245.00000000000003,2.45,1950,3
+on request,,indira nagar,350.0,3.5,1725,3
+on request,,indira nagar,330.0,3.3,2200,3
+on request,,cooke town,220.00000000000003,2.2,1950,3
+on request,,frazer town,120.0,1.2,1100,2
+prestige finsbury park,4.1,bagalur,148.0,1.48,1431,3
+prestige jindal city,4.1,tumkur road,125.0,1.25,1058,2
+sai vajra,,"vidyapeeta, banashankari",130.0,1.3,1600,3
+provident park square,4.1,kanakapura road,53.0,0.53,575,1
+vaishnavi serene,3.5,yelahanka,114.99999999999999,1.15,1118,3
+gm global techies town,3.9,electronic city,114.99999999999999,1.15,1500,3
+assetz sun and sanctum,,"battarahalli, near kr puram",227.99999999999997,2.28,1708,3
+sattva misty charm,4.0,kanakapura road,99.0,0.99,974,2
+srr,,"b narayanapura, mahadevapura",79.0,0.79,1185,2
+provident park square,4.1,kanakapura road,96.0,0.96,1108,3
+"doddaballapur, doddaballapur road, bangalore north",,"doddaballapur, doddaballapur road",112.99999999999999,1.13,2100,3
+prestige jindal city,4.1,tumkur road,125.0,1.25,962,2
+prestige primrose hills,,"uttarahalli manavarthekaval, kanakapura road",100.0,1.0,988,2
+salarpuria silver woods,,"nagavarapalya, old madras road",254.99999999999997,2.55,1813,3
+samruddhi,,uttarahalli,95.0,0.95,1320,3
+bhartiya city nikoo homes 1,,thanisandra,280.0,2.8,2800,5
