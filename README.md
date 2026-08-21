@@ -120,3 +120,9 @@ rating extraction, exact-duplicate removal, and price-per-square-foot calculatio
 - Collect listing dates to analyse price trends over time
 - Deploy the dashboard using Streamlit Community Cloud or a cloud platform
 - Add automated data-quality tests for future dataset updates
+
+
+<img width="1510" height="909" alt="image" src="https://github.com/user-attachments/assets/a7670ee7-c7e1-4152-ad6a-a68ed892d188" />
+
+<img width="1125" height="818" alt="image" src="https://github.com/user-attachments/assets/e68160bc-05fc-456f-95ca-19b6025c9472" />
+
